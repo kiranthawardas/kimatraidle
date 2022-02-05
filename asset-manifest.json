@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kimatraidle/static/css/main.b39d53ed.css",
+    "main.js": "/kimatraidle/static/js/main.e9ef421a.js",
+    "static/js/787.be76bbf1.chunk.js": "/kimatraidle/static/js/787.be76bbf1.chunk.js",
+    "index.html": "/kimatraidle/index.html",
+    "main.b39d53ed.css.map": "/kimatraidle/static/css/main.b39d53ed.css.map",
+    "main.e9ef421a.js.map": "/kimatraidle/static/js/main.e9ef421a.js.map",
+    "787.be76bbf1.chunk.js.map": "/kimatraidle/static/js/787.be76bbf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39d53ed.css",
+    "static/js/main.e9ef421a.js"
+  ]
+}
